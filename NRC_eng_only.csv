@@ -1,4 +1,4 @@
-English (en),Positive,Negative,Anger,Anticipation,Disgust,Fear,Joy,Sadness,Surprise,Trust
+word,positive,negative,anger,anticipation,disgust,fear,joy,sadness,surprise,trust
 aback,0,0,0,0,0,0,0,0,0,0
 abacus,0,0,0,0,0,0,0,0,0,1
 abandon,0,1,0,0,0,1,0,1,0,0
